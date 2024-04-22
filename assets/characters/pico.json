@@ -1,121 +1,77 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				-421,
+				111
 			],
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "Pico Idle Dance"
-		},
-		{
 			"loop": false,
-			"offsets": [
-				27,
-				1
-			],
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Pico Note Right0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-38,
-				-7
-			],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Pico NOTE LEFT0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-60,
-				41
-			],
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "Pico NOTE LEFT miss"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				62,
-				64
-			],
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "Pico Note Right Miss"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				27,
-				39
-			],
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "pico Up note0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-22,
-				-86
-			],
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Pico Down Note0"
+			"name": "Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				210,
-				-28
+				-324,
+				433
 			],
+			"loop": false,
 			"fps": 24,
-			"anim": "singDOWNmiss",
+			"anim": "singUP",
 			"indices": [],
-			"name": "Pico Down Note MISS"
+			"name": "Up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-19,
-				67
+				-401,
+				290
 			],
-			"fps": 24,
-			"anim": "singUPmiss",
+			"loop": true,
+			"fps": 22,
+			"anim": "idle",
 			"indices": [],
-			"name": "pico Up note miss"
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-415,
+				266
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-223,
+				386
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/NEO/Pico_FNF_assetss",
 	"position": [
-		0,
-		300
+		-510,
+		350
 	],
-	"healthicon": "pico",
-	"flip_x": true,
+	"healthicon": "spooky",
+	"flip_x": false,
 	"healthbar_colors": [
-		235,
-		95,
-		255
+		59,
+		83,
+		114
 	],
 	"camera_position": [
-		80,
-		0
+		510,
+		-260
 	],
 	"sing_duration": 4,
 	"scale": 1

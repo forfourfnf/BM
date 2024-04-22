@@ -2,7 +2,7 @@
 	"storyName": "American dad",
 	"difficulties": "Hard",
 	"hideFreeplay": false,
-	"weekBackground": "fraud",
+	"weekBackground": "stage",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
@@ -13,8 +13,8 @@
 	"hideStoryMode": false,
 	"songs": [
 		[
-			"bad-morning",
-			"stan",
+			"Bopeebo",
+			"dad",
 			[
 				57,
 				188,
@@ -28,5 +28,5 @@
 		""
 	],
 	"hiddenUntilUnlocked": false,
-	"weekName": "AmericanDadWeek"
+	"weekName": "week1"
 }
