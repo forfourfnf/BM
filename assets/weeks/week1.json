@@ -1,0 +1,32 @@
+{
+	"storyName": "American dad",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "fraud",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"bad-morning",
+			"stan",
+			[
+				57,
+				188,
+				85
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "AmericanDadWeek"
+}
